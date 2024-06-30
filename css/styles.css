@@ -1,17 +1,18 @@
 .body {
   --font-family: "Roboto", sans-serif;
   --second-family: "Raleway", sans-serif;
-  background-color: white;
+  color: #434455;
+  background-color: #ffffff;
 }
 /* -----------------------LOGO------------------ */
 .logo {
-  font-family: "Roboto", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 117%;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #152cf4;
+  color: #4d5ae5;
 }
 .header-logo {
   font-family: "Roboto", sans-serif;
@@ -68,7 +69,13 @@ nav {
   display: flex;
   align-items: center;
 }
-
+.roboto-medium {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
 nav a {
   color: black;
   text-decoration: none;
@@ -93,14 +100,22 @@ nav ul li a {
   text-decoration: none;
 }
 nav ul li a:hover {
-  background-color: #ccedf1;
+  background-color: #404bbf;
 }
-
+nav ul li a:focus {
+  color: #404bbf;
+}
 address {
   display: flex;
   align-items: center;
+  font-style: normal;
 }
-
+.roboto-regular {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
 address ul {
   list-style: none;
   display: flex;
@@ -117,7 +132,10 @@ address ul li a {
   text-decoration: none;
 }
 address ul li a:hover {
-  background-color: #d7f1ee;
+  background-color: #404bbf;
+}
+address ul li a:focus {
+  color: #404bbf;
 }
 /* -----------------Hero_img--------------- */
 .hero {
