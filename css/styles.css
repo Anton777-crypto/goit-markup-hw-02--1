@@ -87,7 +87,7 @@ header {
   text-decoration: none;
 } */
 nav ul li a:hover {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 
 nav ul li a:focus {
@@ -131,7 +131,7 @@ nav ul li a:focus {
   text-decoration: none;
 } */
   .adress_optionul ul li a:hover {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 .adress_option ul li a:focus {
   color: #404bbf;
