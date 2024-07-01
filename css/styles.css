@@ -89,6 +89,7 @@ header {
 nav ul li a:hover {
   background-color: #404bbf;
 }
+
 nav ul li a:focus {
   color: #404bbf;
 }
@@ -114,12 +115,12 @@ nav ul li a:focus {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.adress_option ul {
+/* .adress_option ul {
   list-style: none;
   display: flex;
   margin: 0;
   padding: 0;
-}
+} */
 
 /* .adress_option ul li {
   margin-left: 20px;
@@ -129,7 +130,7 @@ nav ul li a:focus {
   color: black;
   text-decoration: none;
 } */
-  .adress_optionul li a:hover {
+  .adress_optionul ul li a:hover {
   background-color: #404bbf;
 }
 .adress_option ul li a:focus {
