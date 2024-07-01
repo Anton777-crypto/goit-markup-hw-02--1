@@ -157,7 +157,7 @@ section {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  /* text-align: center; */
+  text-align: center;
   color:#ffffff
 
   /* text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25); */
@@ -178,15 +178,16 @@ section {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer 
   /* cursor: pointer;
   border-radius: 5px;
   transition: background-color 0.3s ease;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15); */
 }
-.hero .button_1:hover {
+.hero_1 .button_1:hover {
   background-color: #404BBF;
 }
-.hero .button_1:focus {
+.hero_1 .button_1:focus {
   background-color: #404BBF;
 }
 .button_1 a {
