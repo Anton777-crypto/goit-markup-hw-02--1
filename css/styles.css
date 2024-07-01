@@ -137,10 +137,10 @@ nav ul li a:focus {
   color: #404bbf;
 } */
 /* -----------------Hero_img--------------- */
-.hero {
+.hero_1 {
   background-color: #2e2f42;
-  width: 1440px;
-  height: 600px;
+  /* width: 1440px;
+  height: 600px; */
   /* display: flex;
   justify-content: space-between;
   align-items: center;
@@ -148,13 +148,18 @@ nav ul li a:focus {
   gap: 5px;
   justify-content: center; */
 }
+section {
+  background-color: #2e2f42;
+  padding: 20px;
+}
 .main_h1 {
   /* font-weight: 700; */
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
   /* text-align: center; */
-  color:#ffffff;
+  color:#ffffff
+
   /* text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25); */
   /* margin: 0px;
   max-width: 564px;
