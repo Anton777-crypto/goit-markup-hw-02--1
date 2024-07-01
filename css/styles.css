@@ -40,7 +40,7 @@ header {
 }
 
 .logo {
-  color: blue;
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -62,7 +62,7 @@ header {
   line-height: 117%;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #000;
+  color: #2e2f42;
 }
 
 nav {
@@ -105,7 +105,7 @@ nav ul li a:hover {
 nav ul li a:focus {
   color: #404bbf;
 }
-address {
+.address {
   display: flex;
   align-items: center;
   font-style: normal;
@@ -116,25 +116,25 @@ address {
   letter-spacing: 0.02em;
   color: #434455;
 }
-address ul {
+.address ul {
   list-style: none;
   display: flex;
   margin: 0;
   padding: 0;
 }
 
-address ul li {
+.address ul li {
   margin-left: 20px;
 }
 
-address ul li a {
+.address ul li a {
   color: black;
   text-decoration: none;
 }
-address ul li a:hover {
+.address ul li a:hover {
   background-color: #404bbf;
 }
-address ul li a:focus {
+.address ul li a:focus {
   color: #404bbf;
 }
 /* -----------------Hero_img--------------- */
