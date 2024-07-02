@@ -188,7 +188,7 @@ nav ul li a:focus {
   background-color: #ffffff;
 }
 /* -----------------////---------------- */
-.container-3 {
+.container-c {
   flex-direction: column;
   display: flex;
   justify-content: space-between;
