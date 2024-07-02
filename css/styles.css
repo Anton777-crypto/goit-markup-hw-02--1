@@ -188,6 +188,7 @@ nav ul li a:focus {
   background-color: #ffffff;
 }
 /* -----------------////---------------- */
+/* -----------------Portfolio---------------- */
 .container-c {
   flex-direction: column;
   display: flex;
@@ -230,4 +231,21 @@ nav ul li a:focus {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+}
+/* -----------------////---------------- */
+/* -----------------Footer---------------- */
+.footer {
+  background-color: #2e2f42;
+  padding: 0px 1100px 10px 50px;
+}
+.logo-footer {
+  color: #f4f4fd;
+}
+.lead-footer {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
