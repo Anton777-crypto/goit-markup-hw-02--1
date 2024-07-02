@@ -204,6 +204,16 @@ nav ul li a:focus {
 
   border-color: #e7e9fc;
 }
+.subject-h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
+}
 
 .subject-3-h3 {
   font-family: "Roboto", sans-serif;
