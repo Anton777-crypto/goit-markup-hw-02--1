@@ -1,9 +1,15 @@
 .body {
   font-family: "Roboto", sans-serif;
-
-  color: #434455;
+  /* flex-direction: column;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  color: #434455; */
   background-color: #ffffff;
 }
+/* main {
+  flex: 1;
+} */
 /* -----------------------LOGO------------------ */
 .logo {
   font-family: "Raleway", sans-serif;
@@ -82,11 +88,6 @@ nav ul li a:focus {
 /* -----------------Hero_img--------------- */
 .container {
   background-color: #2e2f42;
-  padding: 20px;
-  text-align: center;
-
-  width: 1440px;
-  height: 600px;
 }
 
 .title {
@@ -121,9 +122,6 @@ nav ul li a:focus {
 }
 /* ------------------//--------------------- */
 
-.container-1 {
-}
-
 .subject {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -145,13 +143,6 @@ nav ul li a:focus {
 
 /* -----------------Our_Team---------------- */
 .container-2 {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  justify-content: space-between;
-  padding: 20px;
-  margin-top: 100px;
   background-color: #f4f4fd;
 }
 .subject-h2 {
@@ -192,16 +183,6 @@ nav ul li a:focus {
 .container-c {
   flex-direction: column;
   display: flex;
-  justify-content: space-between;
-  margin: auto;
-  width: 1128px;
-  height: 1000px;
-  top: 1868px;
-  left: 156px;
-  gap: 0px;
-  border: 1px 0px 0px 0px;
-  opacity: 0px;
-  border-width: 1px, 1px, 1px, 1px;
 
   border-color: #e7e9fc;
 }
@@ -234,9 +215,8 @@ nav ul li a:focus {
 }
 /* -----------------////---------------- */
 /* -----------------Footer---------------- */
-.footer {
+.horo {
   background-color: #2e2f42;
-  padding: 0px 1100px 10px 50px;
 }
 .logo-footer {
   color: #f4f4fd;
