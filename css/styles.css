@@ -4,7 +4,6 @@
   color: #434455;
 }
 
-/* -----------------------LOGO------------------ */
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -23,7 +22,7 @@
   text-transform: uppercase;
   color: #2e2f42;
 }
-/* -----------------------////------------------ */
+
 header {
   display: flex;
   justify-content: space-between;
@@ -79,7 +78,6 @@ nav ul li a:focus {
   color: #404bbf;
 }
 
-/* -----------------Hero_img--------------- */
 .container {
   background-color: #2e2f42;
 }
@@ -114,7 +112,7 @@ nav ul li a:focus {
 .btn:focus {
   background-color: #404bbf;
 }
-/* ------------------//--------------------- */
+
 .container-a {
 }
 .subject {
@@ -136,7 +134,6 @@ nav ul li a:focus {
   color: #434455;
 }
 
-/* -----------------Our_Team---------------- */
 .container-b {
   background-color: #f4f4fd;
 }
@@ -173,8 +170,7 @@ nav ul li a:focus {
 .item {
   background-color: #ffffff;
 }
-/* -----------------////---------------- */
-/* -----------------Portfolio---------------- */
+
 .container-c {
   flex-direction: column;
   display: flex;
@@ -208,8 +204,7 @@ nav ul li a:focus {
   letter-spacing: 0.02em;
   color: #434455;
 }
-/* -----------------////---------------- */
-/* -----------------Footer---------------- */
+
 .horo {
   background-color: #2e2f42;
 }
