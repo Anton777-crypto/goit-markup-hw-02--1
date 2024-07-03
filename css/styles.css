@@ -24,8 +24,6 @@
 }
 
 header {
-  display: flex;
-  justify-content: space-between;
   align-items: center;
   padding: 20px;
 }
@@ -55,7 +53,6 @@ nav ul li a:focus {
   color: #404bbf;
 }
 .adress-option {
-  display: flex;
   align-items: center;
   font-style: normal;
   font-size: 16px;
@@ -169,9 +166,6 @@ nav ul li a:focus {
 }
 
 .container-c {
-  flex-direction: column;
-  display: flex;
-
   border-color: #e7e9fc;
 }
 .subject-hb {
