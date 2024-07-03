@@ -98,7 +98,7 @@ nav ul li a:focus {
   color: #ffffff;
 }
 
-.button-1 {
+.btn {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -107,21 +107,22 @@ nav ul li a:focus {
   letter-spacing: 0.04em;
   color: #ffffff;
 }
-.button-1 {
+.btn {
   cursor: pointer;
 }
 
-.button-1 a {
+.btn a {
   text-decoration: none;
   color: inherit;
 }
 
-.button-1:hover,
-.button-1:focus {
+.btn:hover,
+.btn:focus {
   background-color: #404bbf;
 }
 /* ------------------//--------------------- */
-
+.container-a {
+}
 .subject {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -142,10 +143,10 @@ nav ul li a:focus {
 }
 
 /* -----------------Our_Team---------------- */
-.container-2 {
+.container-b {
   background-color: #f4f4fd;
 }
-.subject-h2 {
+.subject-hb {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
@@ -156,7 +157,7 @@ nav ul li a:focus {
   color: #2e2f42;
 }
 
-.subject-h3 {
+.subject-hbb {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
