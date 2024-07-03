@@ -1,15 +1,10 @@
 .body {
   font-family: "Roboto", sans-serif;
-  /* flex-direction: column;
-  display: flex;
-  justify-content: space-between;
-  margin: auto;
-  color: #434455; */
+
   background-color: #ffffff;
+  color: #434455;
 }
-/* main {
-  flex: 1;
-} */
+
 /* -----------------------LOGO------------------ */
 .logo {
   font-family: "Raleway", sans-serif;
