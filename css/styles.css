@@ -142,7 +142,7 @@ nav ul li a:focus {
   background-color: #404bbf;
 }
 
-.section-Our {
+.section-our {
   padding: 120px 0;
 }
 .visually-hidden {
@@ -151,11 +151,11 @@ nav ul li a:focus {
   overflow: hidden;
   white-space: nowrap;
 }
-.section-Our-ul {
+.section-our-ul {
   display: flex;
   gap: 24px;
 }
-.section-Our-ul-li {
+.section-our-ul-li {
   width: calc((100% - 72px) / 4);
 }
 .subject {
