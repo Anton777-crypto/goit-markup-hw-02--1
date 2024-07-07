@@ -3,6 +3,9 @@
   background-color: #ffffff;
   color: #434455;
 }
+img {
+  display: block;
+}
 .container {
   width: 1158px;
   margin: 0 auto;
@@ -226,6 +229,7 @@ nav ul li a:focus {
 .container-c {
   border-color: #e7e9fc;
   padding-top: 120px;
+  padding-bottom: 120px;
 }
 .subject-hb {
   font-family: "Roboto", sans-serif;
@@ -251,7 +255,6 @@ nav ul li a:focus {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
-  margin-bottom: 8px;
 }
 .subject-h {
   font-family: "Roboto", sans-serif;
