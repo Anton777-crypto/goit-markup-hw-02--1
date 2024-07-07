@@ -157,7 +157,7 @@ nav ul li a:focus {
   display: flex;
   gap: 24px;
 }
-.section-our-ul-li {
+.ul-li {
   width: calc((100% - 72px) / 4);
 }
 .subject {
