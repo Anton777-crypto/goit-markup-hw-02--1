@@ -248,7 +248,7 @@ nav ul li a:focus {
   column-gap: 24px;
   row-gap: 48px;
 }
-.conatainer-c-ul-li {
+.c-ul-li {
   width: calc((100% - 48px) / 3);
 }
 .ul-li-name {
