@@ -179,6 +179,7 @@ nav ul li a:focus {
 
 .container-b {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 .subject-hb {
   font-family: "Roboto", sans-serif;
@@ -189,15 +190,20 @@ nav ul li a:focus {
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
-
+.container-b-ul {
+  display: flex;
+  gap: 24px;
+}
 .subject-hbb {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
-
+  text-align: center;
+  margin-bottom: 8px;
   color: #2e2f42;
 }
 .lead-p {
@@ -206,14 +212,18 @@ nav ul li a:focus {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-
+  text-align: center;
   color: #434455;
 }
 
 .item {
   background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
 }
-
+.contaner-b-name {
+  padding: 32px 0;
+}
 .container-c {
   border-color: #e7e9fc;
 }
