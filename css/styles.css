@@ -16,6 +16,7 @@ img {
   margin: 0 auto;
   padding: 0 15px 0 15px;
 }
+
 .header {
   border-bottom: 1px solid #e7e9fc;
 }
@@ -104,10 +105,16 @@ nav ul li a:focus {
 }
 
 .container-a {
-  background-color: #2e2f42;
   padding: 188px 0;
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/homwork4/people-office.png);
+  /* background-color: #2e2f42; */
 }
-
+.container {
+}
 .title {
   font-size: 56px;
   line-height: 1.07;
@@ -151,6 +158,19 @@ nav ul li a:focus {
 
 .section-our {
   padding: 120px 0;
+}
+.icon-icon1 {
+  background-size: cover;
+}
+.icon-icon-li {
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  width: 264px;
+  height: 112px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
 }
 .visually-hidden {
   position: absolute;
