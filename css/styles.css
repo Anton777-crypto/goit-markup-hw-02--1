@@ -9,12 +9,6 @@ a {
   text-decoration: none;
 }
 
-ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
 h1,
 h2,
 h3,
@@ -32,6 +26,9 @@ ol {
 ul {
   margin: 0;
   padding-left: 0;
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 img {
   display: block;
@@ -393,9 +390,6 @@ nav ul li a:focus {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
-/* .c-ul-li:hover .overlay {
-  transform: translateY(0%);
-} */
 
 .c-ul-li-card {
   position: relative;
